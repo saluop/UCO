@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom';
 const stats = [
   { number: '10K+', label: 'Lives Impacted', icon: Users },
   { number: '50+', label: 'Active Projects', icon: Target },
-  { number: '15+', label: 'Years of Service', icon: Award },
+  { number: '9+', label: 'Years of Service', icon: Award },
   { number: '95%', label: 'Funds to Programs', icon: ChartBar },
 ];
 
